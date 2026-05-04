@@ -83,12 +83,12 @@ datetime - Registro de timestamps
 ```
 📚 Funcionalidades em Detalhe
 ```
-Função	Descrição	Comando
-Ad/icionar	Cria nova tarefa com ID automático	Opção 1
-Listar	Mostra todas as tarefas formatadas	Opção 2
-Concluir	Marca tarefa como ✅	Opção 3
-Remover	Exclui tarefa permanentemente	Opção 4
-Persistência	Salva automaticamente após cada ação	Automático
+Função	         Descrição	                                 Comando
+Ad/icionar      	Cria nova tarefa com ID automático	         Opção 1
+Listar	         Mostra todas as tarefas formatadas	         Opção 2
+Concluir	         Marca tarefa como ✅	                     Opção 3
+Remover	         Exclui tarefa permanentemente	               Opção 4
+Persistência	   Salva automaticamente após cada ação      	Automático
 ```
 🎓 Habilidades Demonstradas
 ```
@@ -101,21 +101,23 @@ Persistência	Salva automaticamente após cada ação	Automático
 ✅ Persistência de dados
 ```
 🔧 Próximas Melhorias
+```
 Adicionar data de vencimento nas tarefas
 Implementar categorias (trabalho, pessoal, estudo)
 Adicionar busca por texto
 Exportar tarefas para CSV
 Interface colorida com colorama
 Notificações de tarefas atrasadas
-
+```
 🐛 Tratamento de Erros
+```
 O sistema foi desenvolvido com validações robustas:
 ✅ Impede títulos vazios
 ✅ Verifica se número da tarefa existe
 ✅ Confirmação antes de remover
 ✅ Lida com arquivo JSON corrompido
 ✅ Trata entradas não numéricas
-
+```
 👨‍💻 Autor
 Richard Teixeira
 
