@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudar Python",
+    "concluida": true,
+    "criada_em": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "titulo": "Fazer projeto do portfólio",
+    "concluida": true,
+    "criada_em": "2026-04-20"
+  },
+  {
+    "id": 3,
+    "titulo": "Fazer exercícios",
+    "concluida": true,
+    "criada_em": "2026-05-03 21:50:35"
+  }
+]
