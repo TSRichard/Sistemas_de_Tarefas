@@ -20,17 +20,12 @@ Um gerenciador de tarefas completo que roda no terminal, permitindo:
 - Python 3.8 ou superior
 
 ### Instalação
-
-```bash
 # Clone o repositório
 git clone https://github.com/TSRichard/Sistemas_de_Tarefas.git
-
 # Entre na pasta do projeto
 cd 02_sistemas_tarefas
-
 # Execute o sistema de tarefas
 python 02_sistema_tarefas/tarefas.py
-```
 
 DEMONSTRAÇÃO
 ========================================
