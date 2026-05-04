@@ -20,6 +20,7 @@ Um gerenciador de tarefas completo que roda no terminal, permitindo:
 - Python 3.8 ou superior
 
 ### Instalação
+```
 # Clone o repositório
 git clone https://github.com/TSRichard/Sistemas_de_Tarefas.git
 # Entre na pasta do projeto
@@ -67,7 +68,7 @@ Escolha uma opção: 2
     "criada_em": "2026-04-20 21:30:15"
   }
 ]
-
+```
 🛠️ Tecnologias Utilizadas
 Python 3.8+ - Linguagem principal
 JSON - Persistência de dados
