@@ -30,7 +30,7 @@ cd 02_sistemas_tarefas
 
 # Execute o sistema de tarefas
 python 02_sistema_tarefas/tarefas.py
-
+```
 
 DEMONSTRAÇÃO
 ========================================
