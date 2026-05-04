@@ -29,7 +29,7 @@ cd 02_sistemas_tarefas
 
 # Execute o sistema de tarefas
 python 02_sistema_tarefas/tarefas.py
-
+```
 DEMONSTRAÇÃO
 ========================================
 📝 SISTEMA DE TAREFAS
@@ -70,7 +70,7 @@ Escolha uma opção: 2
     "criada_em": "2026-04-20 21:30:15"
   }
 ]
-```
+
 🛠️ Tecnologias Utilizadas
 Python 3.8+ - Linguagem principal
 JSON - Persistência de dados
