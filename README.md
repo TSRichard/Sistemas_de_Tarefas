@@ -31,6 +31,7 @@ cd 02_sistemas_tarefas
 python 02_sistema_tarefas/tarefas.py
 ```
 DEMONSTRAÇÃO
+```
 ========================================
 📝 SISTEMA DE TAREFAS
 ========================================
@@ -52,16 +53,18 @@ Escolha uma opção: 2
 1. ❌ Estudar Python (ID: 1)
    📅 Criada em: 2026-04-20 21:30:15
 --------------------------------------------------
-
+```
 📁 Estrutura do Projeto
+```
 02_sistema_tarefas/
 ├── data/
 │   └── tasks.json          # Arquivo de persistência
 ├── tarefas.py              # Código principal
 └── README.md               # Documentação
-
+```
 
 💾 Formato dos Dados (tasks.json)
+```
 [
   {
     "id": 1,
@@ -70,22 +73,25 @@ Escolha uma opção: 2
     "criada_em": "2026-04-20 21:30:15"
   }
 ]
-
+```
 🛠️ Tecnologias Utilizadas
+```
 Python 3.8+ - Linguagem principal
 JSON - Persistência de dados
 pathlib - Manipulação de caminhos de arquivos
 datetime - Registro de timestamps
-
+```
 📚 Funcionalidades em Detalhe
+```
 Função	Descrição	Comando
-Adicionar	Cria nova tarefa com ID automático	Opção 1
+Ad/icionar	Cria nova tarefa com ID automático	Opção 1
 Listar	Mostra todas as tarefas formatadas	Opção 2
 Concluir	Marca tarefa como ✅	Opção 3
 Remover	Exclui tarefa permanentemente	Opção 4
 Persistência	Salva automaticamente após cada ação	Automático
-
+```
 🎓 Habilidades Demonstradas
+```
 ✅ Manipulação de arquivos JSON (leitura/escrita)
 ✅ CRUD completo (Create, Read, Update, Delete)
 ✅ Tratamento de erros e exceções
@@ -93,7 +99,7 @@ Persistência	Salva automaticamente após cada ação	Automático
 ✅ Interface de linha de comando interativa
 ✅ Organização de código com funções
 ✅ Persistência de dados
-
+```
 🔧 Próximas Melhorias
 Adicionar data de vencimento nas tarefas
 Implementar categorias (trabalho, pessoal, estudo)
